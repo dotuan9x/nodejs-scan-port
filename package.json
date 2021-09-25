@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-scan-port",
+  "version": "1.0.0",
+  "description": "Scan range port from IP andress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotuan9x/nodejs-scan-port.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotuan9x/nodejs-scan-port/issues"
+  },
+  "homepage": "https://github.com/dotuan9x/nodejs-scan-port#readme",
+  "dependencies": {
+    "evilscan": "^1.8.1"
+  }
+}

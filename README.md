@@ -1,2 +1,7 @@
 # nodejs-scan-port
-Scan range port from IP andress
+Scan range port from IP address
+
+Start scan port
+```bash
+node index.js
+```
